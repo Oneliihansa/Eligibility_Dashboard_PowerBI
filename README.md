@@ -32,4 +32,5 @@ Color Indicators: Show eligibility status
 Maps visuals of institutions 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Oneliihansa/Eligibility_Dashboard_PowerBI/blob/main/Screenshots/Dashboard%202.png)
+![App Screenshot](https://github.com/Oneliihansa/Eligibility_Dashboard_PowerBI/blob/main/Screenshots/Dashboard%203.png)
